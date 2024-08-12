@@ -19,7 +19,7 @@
 
 <h3 align="center">Segue a pág do projeto</h3>
 
-<img src= />
+<img src="https://github.com/REGINALDOBOMFIM/Project-Aula-React-Usuario/blob/main/src/assets/tela%201.JPG?raw=true" />
 
 <h3 align="left">Obrigado pela visita🤝:</h3>
 
